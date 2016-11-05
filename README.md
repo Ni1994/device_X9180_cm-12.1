@@ -8,7 +8,7 @@ local_manifests/roomservice.xml for CM12.1:
   <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="cm-12.1" />
 
   <project name="Ni1994/kernel_X9180_cm-12.1.git" path="kernel/ZTE/X9180" remote="github" />
-  <project name="Ni1994/device_X9180_cm-12.1.git" path="device/ZTE/X9180" remote="github"  />
+  <project name="Ni1994/device_X9180_cm-12.1.git" path="device/ZTE/X9180" remote="github" h/>
   <project name="Ni1994/vendor_X9180_cm-12.1.git" path="vendor/ZTE/X9180" remote="github" />
 </manifest>
 ```
