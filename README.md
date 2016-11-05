@@ -12,8 +12,8 @@ local_manifests/roomservice.xml for CM12.1:
   <project name="Ni1994/vendor_X9180_cm-12.1.git" path="vendor/ZTE/X9180" remote="github" revision="cm12.1" />
 </manifest>
 ```
-将"device_X9180_cm-12.1/mdeia/media_codecs_ffmpeg.xml"复制到"frameworks/av/media/libstagefright/data"
-build command<br>
+将"device_X9180_cm-12.1/mdeia/media_codecs_ffmpeg.xml"复制到"frameworks/av/media/libstagefright/data"<br>
+build command
 ```xml
 source build/envsetup.sh
 lunch cm_X9180-userdebug
